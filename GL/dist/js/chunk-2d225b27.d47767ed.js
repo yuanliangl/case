@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225b27"],{e600:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"footer"},[n("span",[e._v("Copyright©2004-2020 JD.com 京东版权所有京ICP证070359 北京市公安局朝阳分局备案编号110105014669")])])}],s={},a=s,o=n("2877"),i=Object(o["a"])(a,c,r,!1,null,"0f582d2a",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d225b27.d47767ed.js.map
