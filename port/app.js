@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var goodsRouter = require('./routes/goods');
 var cartsRouter = require('./routes/carts');
-
+var catesRouter = require('./routes/cates')
 require('./utils/connect')
 
 var app = express();
@@ -29,6 +29,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/goods', goodsRouter);
 app.use('/carts', cartsRouter)
+app.use('/cates',catesRouter)
 
 // 状态
 // catch 404 and forward to error handler
